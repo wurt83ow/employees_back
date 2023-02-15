@@ -1,0 +1,5 @@
+# node_modules packeges ignore
+node_modules
+
+*.sqlite
+ 
